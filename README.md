@@ -1,5 +1,7 @@
 ### Hi 👋 I am Rahul!
-I am a Devops Engineer who is passionate about automating infrastructure. Few tech that I enjoy working in, are Python, Terraform, Ansible, Puppet, docker, and AWS. 
+I am a Devops Engineer who is passionate about automating infrastructure. Few tech that I enjoy working in, are Python, Terraform, Ansible, Puppet, docker, and AWS.
+[![Header](https://raw.githubusercontent.com/rahulvshinde/rahulvshinde/master/banner.mp4 "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/rahulvshinde/rahulvshinde/master/banner.jpg "Header")](https://martinheinz.dev/)
 
 <!--
 **rahulvshinde/rahulvshinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

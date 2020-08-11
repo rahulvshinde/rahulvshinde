@@ -1,4 +1,4 @@
-### Hi 👋 I am Rahul!
+<!-- ### Hi 👋 I am Rahul! -->
 <!-- I am a Devops Engineer who is passionate about automating infrastructure. Few tech that I enjoy working in, are Python, Terraform, Ansible, Puppet, docker, and AWS. -->
 [![Header](https://raw.githubusercontent.com/rahulvshinde/rahulvshinde/master/banner.png "Header")](https://rshinde.com/)
 

@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Orchestration-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Automation-Puppet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
-
 ![](https://img.shields.io/badge/Platform-Banstalk-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=lightgrey)
@@ -27,16 +26,13 @@
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/VCS-SVN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
-
 ![](https://img.shields.io/badge/Logging-Splunk-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Monitoring-Nagios-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-CheckMK-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Alerting-SNS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Oncall-Pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Foreman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)

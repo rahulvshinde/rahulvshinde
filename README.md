@@ -12,7 +12,6 @@
 
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
-
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Platform-Cloudstack-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Platform-VMWare-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff69b4)

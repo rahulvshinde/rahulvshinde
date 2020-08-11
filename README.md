@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvshinde&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/rahulvshinde/rahulvshinde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
 </a>
 
 <a href="https://github.com/rahulvshinde/Simple-DevOps-Project">

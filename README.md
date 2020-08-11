@@ -1,8 +1,8 @@
 <!-- ### Hi 👋 I am Rahul! -->
 <!-- I am a Devops Engineer who is passionate about automating infrastructure. Few tech that I enjoy working in, are Python, Terraform, Ansible, Puppet, docker, and AWS. -->
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhavpawar&color=blue&style=plastic&label=Profile Views" alt="udhavpawar" /> </p>
 [![Header](https://raw.githubusercontent.com/rahulvshinde/rahulvshinde/master/banner_short.png "Header")](https://rshinde.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvshinde&color=blue&style=plastic&label=Profile Views" alt="rahulvshinde" /> </p>
 
 ## &#x1f4c8; GitHub Stats
 <!-- GitHub Stats -->

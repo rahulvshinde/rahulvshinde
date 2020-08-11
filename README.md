@@ -6,31 +6,9 @@
 
 ## &#x1f4c8; GitHub Stats
 <!-- GitHub Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&count_private=true&show_icons=true" alt="Rahul's github stats" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&count_private=true&show_icons=true&theme=radical" alt="Rahul's github stats" /> </p>
 
-
-
-
-
-
-## &#x1f4c8; GitHub Stats
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulvshinde&show_icons=true&theme=radical)
-
-<a href="https://github.com/rahulvshinde/rahulvshinde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvshinde&hide=java,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rahulvshinde/rahulvshinde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&show_icons=true&line_height=35&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
-</a>
-
-<a href="https://github.com/rahulvshinde/Python_Playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvshinde&repo=Python_Playground&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/rahulvshinde/Cloudera-Hadoop-on-Docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulvshinde&repo=Cloudera-Hadoop-on-Docker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+## 🔧 Tools & Technologies
 
 
 <!--

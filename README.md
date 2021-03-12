@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/Alerting-SNS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Oncall-Pagerduty-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Foreman-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-Rundeck-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 
 <!--
 **rahulvshinde/rahulvshinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

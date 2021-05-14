@@ -4,9 +4,9 @@
 [![Header](https://raw.githubusercontent.com/rahulvshinde/rahulvshinde/master/banner_short.png "Header")](https://rshinde.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvshinde&color=blue&style=plastic&label=Profile Views" alt="rahulvshinde" /> </p>
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 <!-- GitHub Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&count_private=true&show_icons=true&theme=radical" alt="Rahul's github stats" /> </p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahulvshinde&count_private=true&show_icons=true&theme=radical" alt="Rahul's github stats" /> </p> -->
 
 ## 🔧 Tools & Technologies
 
